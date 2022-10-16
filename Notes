@@ -21,7 +21,8 @@ Source management platforms
    Amazone codecommit
 
 In Git we have
-   Git push
-   Git pull
-   Git fetch
-   Git clone
+   Git push: Push all changes from local repo to the remote repo
+   Git pull: Brings all changes to the working area
+   Git fetch: Brings specific changes to the local repo
+   Git clone: brings the entire code to the working area
+
