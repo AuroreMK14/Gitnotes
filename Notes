@@ -26,3 +26,7 @@ In Git we have
    Git fetch: Brings specific changes to the local repo
    Git clone: brings the entire code to the working area
 
+Branching
+   Master ( or main) branch
+   Development branch
+
