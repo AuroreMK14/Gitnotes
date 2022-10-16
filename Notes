@@ -1,0 +1,27 @@
+There are 3main git project git sections which are:
+  Git directory
+  Working directory
+  Staging area
+
+There are 2 types of repository which are:
+   Local repository
+   Remote repository
+
+Why Git:
+   Open source
+   Support data intergrity
+   support roll-back
+   Fast
+   Collaboration is great
+
+Source management platforms
+   Github
+   Gitlab
+   Bitbucket (Stash)
+   Amazone codecommit
+
+In Git we have
+   Git push
+   Git pull
+   Git fetch
+   Git clone
